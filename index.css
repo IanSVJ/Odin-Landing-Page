@@ -40,3 +40,52 @@ ul {
     justify-content: center;
     align-items: center;
 }
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+
+ .content-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 50%;
+}
+
+img {
+    margin-bottom: 50px;
+}
+
+.content-left {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 150px;
+    justify-content: center;
+}
+
+.p-first {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-left: 3px;
+}
+
+.sign-up-button-1 {
+  background-color:  #3882f6;
+  color: white;
+  width: 100px;
+  height: 30px;
+  border: 1px #3882f6;
+  border-radius: 10px;
+  margin-top: 10px;
+  font-weight: bold;
+}
