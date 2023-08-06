@@ -89,3 +89,11 @@ img {
   margin-top: 10px;
   font-weight: bold;
 }
+
+.info-header {
+    display: flex;
+    color: #1F2937;
+    font-size: xx-large;
+    font-weight: bolder;
+    justify-content: center;
+}
